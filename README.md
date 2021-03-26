@@ -1,4 +1,4 @@
 # Applied Data Science Capstone
-**Presentation**:
-**Report**:
-**Code**:
+**Presentation:**
+**Report:**
+**Code:**
